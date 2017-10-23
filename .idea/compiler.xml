@@ -17,13 +17,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="iYoung" target="1.5" />
-      <module name="iYoung-biz" target="1.5" />
-      <module name="iYoung-common" target="1.5" />
-      <module name="iYoung-dao" target="1.5" />
-      <module name="iYoung-intergrate" target="1.5" />
-      <module name="iYoung-service" target="1.5" />
-      <module name="iYoung-test" target="1.5" />
-      <module name="iYoung-web" target="1.5" />
+      <module name="iYoung-biz" target="1.7" />
+      <module name="iYoung-common" target="1.7" />
+      <module name="iYoung-dao" target="1.7" />
+      <module name="iYoung-intergrate" target="1.7" />
+      <module name="iYoung-service" target="1.7" />
+      <module name="iYoung-test" target="1.7" />
+      <module name="iYoung-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
